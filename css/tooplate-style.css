@@ -125,6 +125,9 @@ b, strong {
 .animated-item:nth-child(2n+2) {
   animation-delay: 2s;
 }
+.animated-item:nth-child(3n+3) {
+  animation-delay: 4s;
+}
 
 @keyframes BottomTotop {
   0% {
